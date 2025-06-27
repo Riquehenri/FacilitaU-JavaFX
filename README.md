@@ -96,11 +96,11 @@ Cada integrante da equipe contribuiu com diferentes módulos do sistema, aprimor
 
 ## 👨‍💻 Equipe (FacilitaU)
 
-- Éden Samuel
-- Felipe Carneiro
-- Fernando Lopes
-- **Henrique Ricardo**
-- Hugo Takeda
+- [Éden Samuel](https://github.com/Eden-code01)
+- [Felipe Carneiro](https://github.com/FelipeCarneiroRibeiro)
+- [Fernando Lopes](https://github.com/Fernando-Lopes1)
+- [**Henrique Ricardo**](https://github.com/Riquehenri)
+- [Hugo Takeda](https://github.com/hugotakeda)
 
 ---
 
