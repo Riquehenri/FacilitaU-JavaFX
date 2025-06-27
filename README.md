@@ -94,7 +94,7 @@ Cada integrante da equipe contribuiu com diferentes módulos do sistema, aprimor
 
 ---
 
-## 👨‍💻 Equipe (FacilitaU - Grupo 6)
+## 👨‍💻 Equipe (FacilitaU)
 
 - Éden Samuel
 - Felipe Carneiro
@@ -112,9 +112,3 @@ Este projeto é acadêmico e tem como foco o aprendizado. Algumas melhorias que 
 - Criptografia de senhas
 - Interface responsiva
 - Uso de banco de dados relacional (como SQLite ou PostgreSQL)
-
----
-
-## 📖 Licença
-
-Este projeto é de uso acadêmico, distribuído sob a licença MIT. Consulte o arquivo `LICENSE` se necessário.
